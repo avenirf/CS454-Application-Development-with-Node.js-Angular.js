@@ -1,4 +1,5 @@
-# CS454-Application-Development-with-Node.js-Angular.js
+##CS454
+####Application Development with Node.js & Angular.js
 
 Fall 2015 <br/>
 Computer Science Department <br/>
